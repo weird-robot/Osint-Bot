@@ -46,7 +46,7 @@ Created as a portfolio project to demonstrate practical skills in Python, web de
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/osint-bot.git
+git clone https://github.com/weird_robot/osint-bot.git
 cd osint-bot
 
 # 2. Create & activate a virtual environment

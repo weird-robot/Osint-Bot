@@ -131,25 +131,6 @@ Keep Ollama running in a **second terminal**. If Ollama isn't running, the app a
 - ✅ Username footprint framed for self-audit & brand protection
 
 ---
-
-## ☁️ Free Hosting (Render)
-
-1. Push this repository to GitHub.
-2. On [render.com](https://render.com) → **New → Web Service** → select the repo.
-3. Settings:
-   - **Build Command:** `pip install -r requirements.txt`
-   - **Start Command:** `uvicorn app:app --host 0.0.0.0 --port $PORT`
-   - **Instance type:** Free
-4. Deploy → you get a public `https://….onrender.com` URL.
-
-> The free tier sleeps after inactivity; the first request may take ~30 seconds to wake up.
-
-### Instant demo (no hosting)
-
-```bash
-ngrok http 8000
-```
-
 ---
 
 ## 📁 Project Structure

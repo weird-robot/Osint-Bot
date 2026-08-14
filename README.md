@@ -36,18 +36,6 @@ Created as a portfolio project to demonstrate practical skills in Python, web de
 
 ---
 
-## 📦 Requirements
-
-`requirements.txt`
-
-```txt
-fastapi
-uvicorn[standard]
-httpx
-dnspython
-python-whois
-```
-
 ---
 
 ## 🚀 Quick Start (Windows / macOS / Linux)

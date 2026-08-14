@@ -75,7 +75,7 @@ sudo apt update
 sudo apt install -y git python3 python3-pip python3-venv
 
 # 2. Clone the repository
-git clone https://github.com/YOUR_USERNAME/osint-bot.git
+git clone https://github.com/weird-robot/osint-bot.git
 cd osint-bot
 
 # 3. Virtual environment + install requirements

@@ -24,6 +24,10 @@ Created as a portfolio project to demonstrate practical skills in Python, web de
 - 📥 **Case-file export** — download all findings as JSON
 
 ---
+## 🔗 Live Demo
+
+👉 **[Try it live here](https://osint-bot-84tf.onrender.com)**
+
 
 ## 🧰 Tech Stack
 
